@@ -137,10 +137,7 @@ Below are the certificates earned upon successful completion of each course in t
 
 <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" />
 
-<p align="center">
-  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" />
-">
-</p>
+
 
 ---
 
@@ -148,10 +145,8 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/47d12e4749fc4dcf96fb6aa31805d268)**
 
-<p align="center">
-  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/bc1501d0-05d8-418c-9f2f-319bba9c5a23"
-">
-</p>
+<img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/bc1501d0-05d8-418c-9f2f-319bba9c5a23" />
+
 
 ---
 
@@ -159,10 +154,9 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/1fbbc7272e8e851cde68208a04baeb3a)**
 
-<p align="center">
-  <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/055529c1-3702-4f73-8538-b4bb6a577ba9"
-">
-</p>
+ <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/055529c1-3702-4f73-8538-b4bb6a577ba9" />
+
+
 
 ---
 
@@ -179,11 +173,9 @@ Below are the certificates earned upon successful completion of each course in t
 ## 6️⃣ Data Analysis with Python
 
 📄 **[View Certificate](https://coursera.org/share/ae0c19076d7b5f06517e60a3c0a0efdf)**
+ <img src="<img width="1651" height="1275" alt="c_699393_" src="https://github.com/user-attachments/assets/bf480324-03da-4ab9-88d9-32267808ceb2" />
 
-<p align="center">
-  <img src="<img width="1651" height="1275" alt="c_699393_" src="https://github.com/user-attachments/assets/bf480324-03da-4ab9-88d9-32267808ceb2"
-">
-</p>
+
 
 ---
 
@@ -191,10 +183,9 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/05fbef2d31690b62ec3a584ad0b93e70)**
 
-<p align="center">
-  <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/4a59cd4b-245f-4f39-a88e-b1e0907eb35b"
-">
-</p>
+<img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/4a59cd4b-245f-4f39-a88e-b1e0907eb35b" />
+
+
 
 ---
 
@@ -202,10 +193,9 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/188abdae83f872564de20b3978a24320)**
 
-<p align="center">
-  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/0291a31c-7b87-4ad6-81e6-f955e8d893da"
-">
-</p>
+ <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/0291a31c-7b87-4ad6-81e6-f955e8d893da" />
+
+
 
 ---
 
