@@ -1,4 +1,13 @@
 # IBM Data Analyst Professional Certificate
+<h1 align="center">IBM Data Analyst Professional Certificate</h1>
+
+<p align="center">
+  <img src="assets/ibm-logo.png" alt="IBM Logo" width="180">
+</p>
+
+<p align="center">
+Completed through <b>IBM</b> on <b>Coursera</b>
+</p>
 
 This repository contains my coursework, hands-on labs, assignments, and projects completed as part of the **IBM Data Analyst Professional Certificate**. The program provided practical experience in data analysis, data visualization, SQL, Python, Excel, and business intelligence tools through real-world datasets and industry-oriented projects.
 
@@ -220,7 +229,7 @@ National Institute of Technology Calicut
 
 LinkedIn: https://www.linkedin.com/in/rahul-kumar-9b0798281
 
-GitHub: https://github.com/
+GitHub: https://github.com/upsehu/Data_analyst-_professional_Cetification-IBM/tree/main
 
 ---
 
