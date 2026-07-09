@@ -126,7 +126,8 @@ Below are the certificates earned upon successful completion of each course in t
 📄 **[View Certificate](https://coursera.org/share/1084dfbdb94e33cc53985d27a0f4b2bf)**
 
 <p align="center">
-  <img src="<img width="1772" height="928" alt="image" src="https://github.com/user-attachments/assets/eae939b9-a674-48ff-a7bf-96d91a9a8c2a" />
+  <img src="<img width="1650" height="1275" alt="c_1_page-0001" src="https://github.com/user-attachments/assets/5367e2b1-42a3-4cd8-b908-08abdd26d6e2" />
+"/>
 " width="900">
 </p>
 
