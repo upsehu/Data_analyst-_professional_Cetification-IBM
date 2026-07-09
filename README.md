@@ -49,21 +49,23 @@ The IBM Data Analyst Professional Certificate is designed to develop job-ready d
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 IBM-Data-Analyst-Professional-Certificate/
 │
-├── Course 1/
-├── Course 2/
-├── Course 3/
-├── Course 4/
-├── Course 5/
-├── Course 6/
-├── Course 7/
-├── Course 8/
-├── Course 9/
-├── Final Project/
+├── 01-Introduction-to-Data-Analytics/
+├── 02-Excel-Basics-for-Data-Analysis/
+├── 03-Python-for-Data-Science-AI-and-Development/
+├── 04-Python-Project-for-Data-Science/
+├── 05-Databases-and-SQL-for-Data-Science-with-Python/
+├── 06-Data-Analysis-with-Python/
+├── 07-Data-Visualization-with-Python/
+├── 08-Data-Visualization-and-Dashboards-with-Excel-and-Cognos/
+├── 09-IBM-Data-Analyst-Capstone-Project/
+├── Certificate/
+│   └── IBM-Data-Analyst-Professional-Certificate.pdf
+│
 └── README.md
 ```
 
@@ -113,6 +115,102 @@ Through this certificate, I developed the ability to:
 ## Certificate
 
 Successfully completed the **IBM Data Analyst Professional Certificate** offered by IBM through Coursera.
+# 🏆 Course Certificates
+
+Below are the certificates earned upon successful completion of each course in the **IBM Data Analyst Professional Certificate**.
+
+---
+
+## 1️⃣ Introduction to Data Analytics
+
+📄 **[View Certificate](https://coursera.org/share/1084dfbdb94e33cc53985d27a0f4b2bf)**
+
+<p align="center">
+  <img src="<img width="1772" height="928" alt="image" src="https://github.com/user-attachments/assets/eae939b9-a674-48ff-a7bf-96d91a9a8c2a" />
+" width="900">
+</p>
+
+---
+
+## 2️⃣ Excel Basics for Data Analysis
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/02-Excel-Basics-for-Data-Analysis.png" width="900">
+</p>
+
+---
+
+## 3️⃣ Python for Data Science, AI & Development
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/03-Python-for-Data-Science-AI-and-Development.png" width="900">
+</p>
+
+---
+
+## 4️⃣ Python Project for Data Science
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/04-Python-Project-for-Data-Science.png" width="900">
+</p>
+
+---
+
+## 5️⃣ Databases and SQL for Data Science with Python
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/05-Databases-and-SQL-for-Data-Science-with-Python.png" width="900">
+</p>
+
+---
+
+## 6️⃣ Data Analysis with Python
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/06-Data-Analysis-with-Python.png" width="900">
+</p>
+
+---
+
+## 7️⃣ Data Visualization with Python
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/07-Data-Visualization-with-Python.png" width="900">
+</p>
+
+---
+
+## 8️⃣ Data Visualization and Dashboards with Excel and Cognos
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/08-Data-Visualization-and-Dashboards-with-Excel-and-Cognos.png" width="900">
+</p>
+
+---
+
+## 9️⃣ IBM Data Analyst Capstone Project
+
+📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+
+<p align="center">
+  <img src="certificate/09-IBM-Data-Analyst-Capstone-Project.png" width="900">
+</p>
+
+---
 
 ---
 
@@ -125,7 +223,7 @@ National Institute of Technology Calicut
 
 LinkedIn: https://www.linkedin.com/in/rahul-kumar-9b0798281
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/
 
 ---
 
@@ -134,5 +232,3 @@ GitHub: https://github.com/YOUR_USERNAME
 This repository is intended for educational and portfolio purposes.
 
 =======
-# Data_analyst-_professional_Cetification-IBM
->>>>>>> 68c4a642e0d150d3083ae9320c8465182b4e3df1
