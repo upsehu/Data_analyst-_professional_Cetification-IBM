@@ -1,13 +1,4 @@
-# IBM Data Analyst Professional Certificate
-<h1 align="center">IBM Data Analyst Professional Certificate</h1>
-
-<p align="center">
-  <img src="assets/ibm-logo.png" alt="IBM Logo" width="180">
-</p>
-
-<p align="center">
-Completed through <b>IBM</b> on <b>Coursera</b>
-</p>
+# IBM Data Analyst Professional Certificate <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 This repository contains my coursework, hands-on labs, assignments, and projects completed as part of the **IBM Data Analyst Professional Certificate**. The program provided practical experience in data analysis, data visualization, SQL, Python, Excel, and business intelligence tools through real-world datasets and industry-oriented projects.
 
