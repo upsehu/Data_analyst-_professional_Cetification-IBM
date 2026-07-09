@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IBM Data Analyst Professional Certificate
 
 This repository contains my coursework, hands-on labs, assignments, and projects completed as part of the **IBM Data Analyst Professional Certificate**. The program provided practical experience in data analysis, data visualization, SQL, Python, Excel, and business intelligence tools through real-world datasets and industry-oriented projects.
@@ -132,3 +133,6 @@ GitHub: https://github.com/YOUR_USERNAME
 
 This repository is intended for educational and portfolio purposes.
 
+=======
+# Data_analyst-_professional_Cetification-IBM
+>>>>>>> 68c4a642e0d150d3083ae9320c8465182b4e3df1
