@@ -127,7 +127,6 @@ Below are the certificates earned upon successful completion of each course in t
 <img width="1650" height="1275" alt="c_1_page-0001" src="https://github.com/user-attachments/assets/0c89b4b6-aabb-4a6d-a57b-262279946309" />
 
 
-    img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/dcfc16dc-aa2d-4b34-9e3e-ff3e31f9426d"
 
 
 
@@ -136,8 +135,10 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/2617a22385e3ac4d437f3a47e903251d)**
 
+<img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" />
+
 <p align="center">
-  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" 
+  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" />
 ">
 </p>
 
