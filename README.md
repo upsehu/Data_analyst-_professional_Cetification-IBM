@@ -128,7 +128,7 @@ Below are the certificates earned upon successful completion of each course in t
 <img width="950" height="730" alt="image" src="https://github.com/user-attachments/assets/4934df3e-05b4-486f-a89c-5a3f1b24226c" />
 
 <p align="center">
-  <img src="<img width="1650" height="1275" alt="c_1_page-0001" src="https://github.com/user-attachments/assets/c881abc1-1ce5-4f57-b5e9-8ce33d206f4f" />
+  <img src="https://github.com/user-attachments/assets/c881abc1-1ce5-4f57-b5e9-8ce33d206f4f" />
 "
        alt="Course Certificate"
        width="60%"
