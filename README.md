@@ -1,1 +1,1 @@
-# Data_analyst-_professinal_Cetification-IBM
+# Data_analyst-_professional_Cetification-IBM
