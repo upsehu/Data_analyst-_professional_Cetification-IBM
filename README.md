@@ -124,13 +124,10 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/1084dfbdb94e33cc53985d27a0f4b2bf)**
 
-
-
-<p align="center">
-  <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/dcfc16dc-aa2d-4b34-9e3e-ff3e31f9426d"
+<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/dcfc16dc-aa2d-4b34-9e3e-ff3e31f9426d"
 ">
-</p>
----
+
+
 
 ## 2️⃣ Excel Basics for Data Analysis
 
