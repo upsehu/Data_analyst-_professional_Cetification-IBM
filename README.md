@@ -125,7 +125,7 @@ Below are the certificates earned upon successful completion of each course in t
 
 📄 **[View Certificate](https://coursera.org/share/1084dfbdb94e33cc53985d27a0f4b2bf)**
 
-<img width="950" height="730" alt="image" src="https://github.com/user-attachments/assets/4934df3e-05b4-486f-a89c-5a3f1b24226c" />
+
 
 <p align="center">
   <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/dcfc16dc-aa2d-4b34-9e3e-ff3e31f9426d"
@@ -135,30 +135,33 @@ Below are the certificates earned upon successful completion of each course in t
 
 ## 2️⃣ Excel Basics for Data Analysis
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/2617a22385e3ac4d437f3a47e903251d)**
 
 <p align="center">
-  <img src="certificate/02-Excel-Basics-for-Data-Analysis.png" width="900">
+  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/17670fe9-e997-46ae-a952-195c7849d316" 
+">
 </p>
 
 ---
 
 ## 3️⃣ Python for Data Science, AI & Development
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/47d12e4749fc4dcf96fb6aa31805d268)**
 
 <p align="center">
-  <img src="certificate/03-Python-for-Data-Science-AI-and-Development.png" width="900">
+  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/bc1501d0-05d8-418c-9f2f-319bba9c5a23"
+">
 </p>
 
 ---
 
 ## 4️⃣ Python Project for Data Science
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/1fbbc7272e8e851cde68208a04baeb3a)**
 
 <p align="center">
-  <img src="certificate/04-Python-Project-for-Data-Science.png" width="900">
+  <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/055529c1-3702-4f73-8538-b4bb6a577ba9"
+">
 </p>
 
 ---
@@ -175,30 +178,33 @@ Below are the certificates earned upon successful completion of each course in t
 
 ## 6️⃣ Data Analysis with Python
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/ae0c19076d7b5f06517e60a3c0a0efdf)**
 
 <p align="center">
-  <img src="certificate/06-Data-Analysis-with-Python.png" width="900">
+  <img src="<img width="1651" height="1275" alt="c_699393_" src="https://github.com/user-attachments/assets/bf480324-03da-4ab9-88d9-32267808ceb2"
+">
 </p>
 
 ---
 
 ## 7️⃣ Data Visualization with Python
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/05fbef2d31690b62ec3a584ad0b93e70)**
 
 <p align="center">
-  <img src="certificate/07-Data-Visualization-with-Python.png" width="900">
+  <img src="<img width="1650" height="1275" alt="" src="https://github.com/user-attachments/assets/4a59cd4b-245f-4f39-a88e-b1e0907eb35b"
+">
 </p>
 
 ---
 
 ## 8️⃣ Data Visualization and Dashboards with Excel and Cognos
 
-📄 **[View Certificate](PASTE_CERTIFICATE_LINK_HERE)**
+📄 **[View Certificate](https://coursera.org/share/188abdae83f872564de20b3978a24320)**
 
 <p align="center">
-  <img src="certificate/08-Data-Visualization-and-Dashboards-with-Excel-and-Cognos.png" width="900">
+  <img src="<img width="1651" height="1275" alt="" src="https://github.com/user-attachments/assets/0291a31c-7b87-4ad6-81e6-f955e8d893da"
+">
 </p>
 
 ---
